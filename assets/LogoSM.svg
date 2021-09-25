@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220.5" height="48" viewBox="0 0 220.5 48">
+  <g id="LogoSM" transform="translate(-224 -2428)">
+    <text id="Target_Hit" data-name="Target Hit" transform="translate(286.5 2463.5)" fill="#ffdf40" stroke="#ffdf40" stroke-width="1" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Target Hit</tspan></text>
+    <g id="Group_42" data-name="Group 42" transform="translate(109 2420.5)">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(115 31.987) rotate(-45)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="34.63" height="33.252" stroke="none"/>
+        <rect x="1" y="1" width="32.63" height="31.252" fill="none"/>
+      </g>
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(117.783 31.987) rotate(-45)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="30.695" height="29.514" stroke="none"/>
+        <rect x="1" y="1" width="28.695" height="27.514" fill="none"/>
+      </g>
+      <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(120.983 31.848) rotate(-45)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="26.169" height="25.185" stroke="none"/>
+        <rect x="1" y="1" width="24.169" height="23.185" fill="none"/>
+      </g>
+      <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(124.739 31.709) rotate(-45)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="20.66" height="19.873" stroke="none"/>
+        <rect x="1" y="1" width="18.66" height="17.873" fill="none"/>
+      </g>
+      <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(127.939 31.57) rotate(-45)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="16.134" height="15.544" stroke="none"/>
+        <rect x="1" y="1" width="14.134" height="13.544" fill="none"/>
+      </g>
+      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(132.113 31.57) rotate(-45)" fill="#fff" stroke="red" stroke-width="2">
+        <rect width="10.232" height="9.838" stroke="none"/>
+        <rect x="1" y="1" width="8.232" height="7.838" fill="none"/>
+      </g>
+      <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(135.73 31.57) rotate(-45)" fill="#fff" stroke="red" stroke-width="1">
+        <rect width="5.116" height="4.919" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4.116" height="3.919" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

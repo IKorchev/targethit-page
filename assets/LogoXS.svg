@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.109" height="20.109" viewBox="0 0 20.109 20.109">
+  <g id="LogoXS" transform="translate(0)">
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(10.054 0) rotate(45)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="14.219" height="14.219" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13.219" height="13.219" fill="none"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(10.054 3.568) rotate(45)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="9.403" height="9.403" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.403" height="8.403" fill="none"/>
+    </g>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(10.054 6.162) rotate(45)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="5.733" height="5.733" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4.733" height="4.733" fill="none"/>
+    </g>
+    <g id="Path_5" data-name="Path 5" transform="translate(10.054 8.108) rotate(45)" fill="#ff0a0a">
+      <path d="M 2.481402635574341 2.481402635574341 L 0.5000026226043701 2.481402635574341 L 0.5000026226043701 0.5000026226043701 L 2.481402635574341 0.5000026226043701 L 2.481402635574341 2.481402635574341 Z" stroke="none"/>
+      <path d="M 1.00000262260437 1.00000262260437 L 1.00000262260437 1.981402635574341 L 1.981402635574341 1.981402635574341 L 1.981402635574341 1.00000262260437 L 1.00000262260437 1.00000262260437 M 2.622604370117188e-06 2.622604370117188e-06 L 2.981402635574341 2.622604370117188e-06 L 2.981402635574341 2.981402635574341 L 2.622604370117188e-06 2.981402635574341 L 2.622604370117188e-06 2.622604370117188e-06 Z" stroke="none" fill="#000"/>
+    </g>
+  </g>
+</svg>

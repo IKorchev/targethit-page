@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .btn-primary {
+    @apply border-gray-800 text-black bg-primary-yellow text-xl border-2 rounded-xl mt-12 py-2 w-48 font-bold shadow-md transition duration-200  hover:shadow-xl hover:bg-black hover:text-primary-yellow hover:border-primary-yellow;
+  }
+}
+
+.homepage {
+  background-image: url("../assets/BottomBG.svg"), url("../assets/RightBG.svg");
+  background-size: 20rem, 50rem;
+  background-repeat: no-repeat;
+  background-position: left 10rem, right 20rem;
+}

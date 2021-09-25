@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680.462" height="949" viewBox="0 0 680.462 949">
+  <g id="RightBG" transform="translate(-263.164 -834)">
+    <g id="Group_31" data-name="Group 31" transform="translate(263.164 1053)" opacity="0.26">
+      <g id="Group_7" data-name="Group 7">
+        <g id="Group_4" data-name="Group 4" transform="translate(0 383)" opacity="0.08">
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="47" height="256" transform="translate(0 58)" fill="#29ff0a"/>
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="5" height="347" transform="translate(24)" fill="#29ff0a"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(51 254)" opacity="0.08">
+          <rect id="Rectangle_3-2" data-name="Rectangle 3" width="47" height="256" fill="#29ff0a"/>
+          <rect id="Rectangle_4-2" data-name="Rectangle 4" width="5" height="266" transform="translate(24)" fill="#29ff0a"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(102 163)" opacity="0.08">
+          <rect id="Rectangle_3-3" data-name="Rectangle 3" width="47" height="181" transform="translate(0 39)" fill="#ff0a0a"/>
+          <rect id="Rectangle_4-3" data-name="Rectangle 4" width="5" height="191" transform="translate(24)" fill="#ff0a0a"/>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(153 93)" opacity="0.08">
+          <rect id="Rectangle_3-4" data-name="Rectangle 3" width="47" height="211" transform="translate(0 32)" fill="#29ff0a"/>
+          <rect id="Rectangle_4-4" data-name="Rectangle 4" width="5" height="470" transform="translate(24)" fill="#29ff0a"/>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(204 81)" opacity="0.08">
+          <rect id="Rectangle_3-5" data-name="Rectangle 3" width="47" height="226" transform="translate(0 115)" fill="#ff0a0a"/>
+          <rect id="Rectangle_4-5" data-name="Rectangle 4" width="5" height="410" transform="translate(24)" fill="#ff0a0a"/>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(255 254)" opacity="0.08">
+          <rect id="Rectangle_3-6" data-name="Rectangle 3" width="47" height="90" transform="translate(0 115)" fill="#ff0a0a"/>
+          <rect id="Rectangle_4-6" data-name="Rectangle 4" width="5" height="262" transform="translate(24)" fill="#ff0a0a"/>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(306 75)" opacity="0.08">
+          <rect id="Rectangle_3-7" data-name="Rectangle 3" width="47" height="308" transform="translate(0 44)" fill="#29ff0a"/>
+          <rect id="Rectangle_4-7" data-name="Rectangle 4" width="5" height="392" transform="translate(24)" fill="#29ff0a"/>
+        </g>
+        <g id="Group_12" data-name="Group 12" transform="translate(357)" opacity="0.08">
+          <path id="Path_2" data-name="Path 2" d="M0,0H47V136H0Z" transform="translate(0 56)" fill="#29ff0a"/>
+          <rect id="Rectangle_4-8" data-name="Rectangle 4" width="5" height="220" transform="translate(24)" fill="#29ff0a"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(385.626 930)" fill="#fca000" stroke="#ff4e00" stroke-width="1" opacity="0.02">
+      <rect width="558" height="41" stroke="none"/>
+      <rect x="0.5" y="0.5" width="557" height="40" fill="none"/>
+    </g>
+    <text id="TARGET:_92.92" data-name="TARGET: $92.92" transform="translate(436.164 898)" fill="#fff" font-size="61" font-family="Poppins-Medium, Poppins" font-weight="500" opacity="0.02"><tspan x="0" y="0">TARGET: $92.92</tspan></text>
+  </g>
+</svg>
