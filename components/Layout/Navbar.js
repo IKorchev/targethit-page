@@ -11,8 +11,8 @@ const Navbar = () => {
           </div>
         </a>
         <div className='flex justify-between text-lg text-white w-1/3'>
-          <a href=''>Home</a>
-          <a href=''>Traders</a>
+          <a href='/'>Home</a>
+          <a href='/traders'>Traders</a>
           <a href=''>News And Alerts</a>
           <a href=''>Charts</a>
           <a href=''>TGH Token</a>
