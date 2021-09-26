@@ -3,7 +3,7 @@ import Logo from "../../assets/Logo.svg"
 import AccountIcon from "../../assets/MDI - account-circle.svg"
 const Navbar = () => {
   return (
-    <nav className='bg-secondary font-poppins shadow-2xl '>
+    <nav className='bg-secondary font-poppins shadow-2xl fixed w-full z-10 '>
       <div className='flex justify-around items-center border-b border-primary-yellow mx-auto py-2 z-50 '>
         <a href=''>
           <div className='relative h-12 w-48'>
@@ -17,9 +17,9 @@ const Navbar = () => {
           <a href=''>Charts</a>
           <a href=''>TGH Token</a>
         </div>
-        <div className='text-center relative h-10 w-10'>
+        <button className='text-center relative h-10 w-10 usericon cursor-pointer '>
           <Image src={AccountIcon} className='absolute' layout='fill' />
-        </div>
+        </button>
       </div>
       <div className='flex justify-between text-sm font-semibold px-48 py-2 z-50'>
         <div className='rounded-md bg-positive-green px-8'>

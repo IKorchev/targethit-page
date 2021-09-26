@@ -10,8 +10,8 @@ export default function Home() {
         <title>Target Hit</title>
       </Head>
       <main className='font-poppins container mx-auto'>
-        <section>
-          <div className='flex mt-48 justify-around'>
+        <section className='mt-72'>
+          <div className='flex justify-around'>
             <div className='flex flex-col justify-between'>
               <h1 className='text-5xl text-primary-yellow font-semibold'>
                 Take your trading to the next level
@@ -60,7 +60,7 @@ export default function Home() {
             height='562.50'
             src='https://www.youtube.com/embed/_0_E9xPL4EQ'
             title='YouTube video player'
-            frameborder='0'
+            frameBorder='0'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
             allowfullscreen='true'></iframe>
 
