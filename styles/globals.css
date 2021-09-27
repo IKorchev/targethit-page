@@ -7,15 +7,25 @@
   .btn-primary {
     @apply border-gray-800 text-black bg-primary-yellow text-xl border-2 rounded-xl mt-12 py-2 w-48 font-bold shadow-md transition duration-200  hover:shadow-xl hover:bg-black hover:text-primary-yellow hover:border-primary-yellow;
   }
-  a, .usericon {
+  a,
+  .usericon {
     @apply transition duration-200 hover:opacity-50;
   }
-  
+  th,
+  td {
+    @apply py-2 px-2 text-center rounded-sm bg-gray-800;
+  }
+  .small-scrollbar {
+    @apply scrollbar-thumb-white scrollbar scrollbar-track-bggradient1 scrollbar-thin scrollbar-thumb-rounded-md scrollbar-track-rounded-md;
+  }
 }
 
 .homepage {
   background-image: url("../assets/BottomBG.svg"), url("../assets/RightBG.svg");
-  background-size: 20rem, 50rem;
+  background-size: 20rem, 30rem;
   background-repeat: no-repeat;
   background-position: left 10rem, right 20rem;
+}
+.section {
+  height: 41rem !important;
 }

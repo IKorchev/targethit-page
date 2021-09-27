@@ -1,25 +1,18 @@
-const traders = () => {
+import AllAcounts from "../components/AllAcounts"
+import AccountOverview from "../components/AccountOverview"
+
+const Traders = () => {
   return (
-    <div className='h-screen'>
-      <h1 className='text-center text-primary-yellow text-5xl mt-48 font-semibold'>
+    <div className='my-36'>
+      <h1 className='text-center  text-white font-poppins text-5xl mt-36 font-semibold'>
         Traders
       </h1>
-      <div className='flex justify-between container px-48 mx-auto mt-24'>
-        <div className='h-full '>
-          <h2 className='text-center text-primary-yellow text-3xl  font-semibold'>
-            Accounts
-          </h2>
-          <div className='bg-card-gray shadow-lg '>
-            <div className='bg-blue-100 w-60'>
-              <div className='h-12 w-12 bg-white rounded-full border border-primary-yellow'>
-
-              </div>
-            </div>
-          </div>
-        </div>
+      <div className='flex justify-between container px-24 mx-auto mt-12'>
+        <AllAcounts />
+        <AccountOverview />
       </div>
     </div>
   )
 }
 
-export default traders
+export default Traders
