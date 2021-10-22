@@ -69,6 +69,7 @@ export default function Home() {
             responsibility for your losses.
           </p>
         </section>
+       
       </main>
     </div>
   )
